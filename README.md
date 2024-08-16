@@ -41,10 +41,10 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/diwash-timilsina/" target="_blank">
+  <a href="https://np.linkedin.com/in/diwash-timilsina-116a691aa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:diwash.timilsina@gmail.com">
+  <a href="mailto:diwashtimilsina7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
