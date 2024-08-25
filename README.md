@@ -37,7 +37,7 @@
 - [**Machine-Learning-solubpredict**](https://github.com/diwashtimilsina/Machine-Learning-solubpredict): Predicting solubility of compounds using linear regression.
 - [**PortScanner**](https://github.com/diwashtimilsina/PortScanner): Scan open ports using URLs in the web.
 - [**C-Authentication**](https://github.com/diwashtimilsina/C-Authentication): Basic Authentication Project using C++ and Bash.
-- [**R_PROGRAMMING**](https://github.com/diwashtimilsina/R_PROGRAMMING): Just basic R programming problems.
+- [**Diabetes Prediction**](https://github.com/diwashtimilsina/R_PROGRAMMING): Machine learning for **diabetes** Prediction.
 
 ### 🌐 Connect with Me
 <p align="center">
